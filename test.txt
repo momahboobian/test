@@ -1,16 +1,2 @@
 this is a test 1/
-
-
-:o
-:w
-
-
-
-
-
-
-:wq
-:q
-:Q
-exit
-:q
+this is a test 2 by iPad
